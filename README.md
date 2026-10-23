@@ -4,4 +4,5 @@
 
 - B站生姜DrGinger开源书籍 github 网址为：
   - 数学要素：https://github.com/Visualize-ML/Book3_Elements-of-Mathematics
+- B站[吴恩达机器学习_StanFord](https://space.bilibili.com/3546389319519165)吴恩达机器学习数学基础【线性代数】
 
